@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my library of AI Notebooks that I want to learn and recap key ideas around AI Tools and Algorithsm.
+
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## AI Notebooks Store for AI Newbie
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file.
+And you can include links, like this [link to AI Newbie](https://www.ainewbie.org). Posts will appear after this file.
